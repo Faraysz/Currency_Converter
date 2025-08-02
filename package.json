@@ -27,6 +27,11 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
-  }
+    "typescript": "^5.8.3",
+    "vite": "^7.0.6"
+  },
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build"
+ }
 }
