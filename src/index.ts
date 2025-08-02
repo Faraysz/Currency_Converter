@@ -15,3 +15,6 @@ if (!rates[from] || !rates[to]) {
   const result = (amount / rates[from]) * rates[to];
   console.log(`\n💸 Hasil: ${amount} ${from} = ${result.toFixed(2)} ${to}`);
 }
+
+// sebenere mau buat UI nya, tapii sek bingung konsepnya gimana
+// mungkin nanti bisa pake React atau Vue.js buat frontendnya

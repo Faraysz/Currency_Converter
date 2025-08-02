@@ -5,3 +5,5 @@ export const rates: Record<string, number> = {
   JPY: 157.8,
   GBP: 0.78,
 };
+
+// expor uang diberbagai mata uang yang tersedia
